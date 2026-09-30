@@ -1,0 +1,10 @@
+🛠️ Tecnologias e Ferramentas Utilizadas
+Linguagem: Python 3.8+
+
+Modelo de IA: Ultralytics YOLO (YOLOv8)
+
+Extração do Dataset: FiftyOne (Zoo Datasets / COCO)
+
+Visualização & Manipulação: OpenCV, Matplotlib, PIL
+
+Plataforma de Execução: Google Colab (com aceleração de Hardware via GPU T4/V100)
